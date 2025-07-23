@@ -25,7 +25,7 @@ public class Array_1 {
         System.out.println(scoreArray[1]);
         System.out.println(scoreArray[2]);
         System.out.println(scoreArray[3]);
-        System.out.println(scoreArray[5]);
+        System.out.println(scoreArray[4]);
 	}
 
 }
